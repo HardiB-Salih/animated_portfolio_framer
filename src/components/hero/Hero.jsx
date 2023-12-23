@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { motion } from "framer-motion";
 import Scroll from "../../img/scroll.png";
 import HeroPic from "../../img/hero.png";
-import { mobile, tablet } from "../../style/size";
+import { tablet } from "../../style/size";
 
 const textVariants = {
   initial: {
